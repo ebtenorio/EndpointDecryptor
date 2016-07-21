@@ -1,0 +1,10 @@
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\bin\Release\Decryptor.exe
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\bin\Release\Decryptor.pdb
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\bin\Release\SccEndpointDecryptor.dll
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\bin\Release\SccEndpointDecryptor.pdb
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\obj\x86\Release\Decryptor.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\obj\x86\Release\Decryptor.Form1.resources
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\obj\x86\Release\Decryptor.Properties.Resources.resources
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\obj\x86\Release\Decryptor.csproj.GenerateResource.Cache
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\obj\x86\Release\Decryptor.exe
+C:\AgilitiNet Source\SccEndpointDecryptor\Decryptor\obj\x86\Release\Decryptor.pdb

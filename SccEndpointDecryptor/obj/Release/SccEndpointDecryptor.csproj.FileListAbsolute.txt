@@ -1,0 +1,5 @@
+C:\AgilitiNet Source\SccEndpointDecryptor\SccEndpointDecryptor\bin\Release\SccEndpointDecryptor.dll
+C:\AgilitiNet Source\SccEndpointDecryptor\SccEndpointDecryptor\bin\Release\SccEndpointDecryptor.pdb
+C:\AgilitiNet Source\SccEndpointDecryptor\SccEndpointDecryptor\obj\Release\SccEndpointDecryptor.dll
+C:\AgilitiNet Source\SccEndpointDecryptor\SccEndpointDecryptor\obj\Release\SccEndpointDecryptor.pdb
+C:\AgilitiNet Source\SccEndpointDecryptor\SccEndpointDecryptor\obj\Release\SccEndpointDecryptor.csprojResolveAssemblyReference.cache
